@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'xcode_try2Tests' target in the 'xcode_try2Tests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
